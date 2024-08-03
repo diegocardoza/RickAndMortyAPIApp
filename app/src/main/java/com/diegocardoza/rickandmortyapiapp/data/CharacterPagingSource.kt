@@ -1,6 +1,5 @@
 package com.diegocardoza.rickandmortyapiapp.data
 
-import android.util.Log
 import androidx.paging.PagingSource
 import androidx.paging.PagingState
 import com.diegocardoza.rickandmortyapiapp.presentation.model.CharacterModel
