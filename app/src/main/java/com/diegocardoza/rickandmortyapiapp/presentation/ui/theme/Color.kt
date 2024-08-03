@@ -1,4 +1,4 @@
-package com.diegocardoza.rickandmortyapiapp.ui.theme
+package com.diegocardoza.rickandmortyapiapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
