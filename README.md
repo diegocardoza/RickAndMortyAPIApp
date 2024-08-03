@@ -1,6 +1,8 @@
-# Aplicación Android The Rick And Morty API
+<h1 align="center">Aplicación Android The Rick And Morty API</h1>
 
-<img src="https://github.com/diegocardoza/RickAndMortyAPIApp/blob/main/MainScreen.png" width="400" height="776"/>
+<div align="center">
+  <img src="https://github.com/diegocardoza/RickAndMortyAPIApp/blob/main/MainScreen.png" width="367" height="776">
+</div>
 
 ## Descripción
 
@@ -17,7 +19,7 @@ La Aplicación Android de la API de The Rick And Morty API, incluyendo Kotlin, a
 
 ## Capturas de Pantalla
 
-<img src="https://github.com/diegocardoza/RickAndMortyAPIApp/blob/main/MainScreen.png" width="400" height="776"/>
+<img src="https://github.com/diegocardoza/RickAndMortyAPIApp/blob/main/MainScreen.png" width="244" height="517"/>
 
 ## Arquitectura
 
